@@ -1,0 +1,8 @@
+post http://localhost:5100/pizzas
+Content-Type: application/json
+
+{
+    "id": "100",
+    "name": "Golosa",
+    "description": "Tomato sauce, mozzarella di bufala"
+}
